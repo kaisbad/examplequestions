@@ -175,3 +175,7 @@ function fontStyle() {
     );
 }
 DOMSelect.fontstyle.addEventListener("input", fontStyle);
+
+//this is a css editing website
+//line 69-90 is algorithim (nice)
+//most of the functions are just event listeners

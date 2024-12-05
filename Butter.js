@@ -111,3 +111,5 @@ const resetHistory = function () {
     }
   }
 };
+
+//line 56-89 = algorithim
